@@ -1,0 +1,34 @@
+# Blender backup files
+*.blend1
+*.blend2
+*.blend@
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large render outputs (optional - uncomment if you don't want to track renders)
+# *.png
+# *.jpg
+# *.exr
+*.blend
+*.blend1
