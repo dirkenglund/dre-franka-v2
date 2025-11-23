@@ -32,3 +32,4 @@ Thumbs.db
 # *.exr
 *.blend
 *.blend1
+.env
